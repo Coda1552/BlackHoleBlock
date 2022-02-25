@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blackholeblock:block/black_hole_block"
+    }
+  }
+}
